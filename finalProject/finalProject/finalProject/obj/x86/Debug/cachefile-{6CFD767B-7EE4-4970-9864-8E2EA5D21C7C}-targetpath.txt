@@ -1,0 +1,2 @@
+Content\UserInterface\title_screen_wide.xnb
+Content\UserInterface\menufont.xnb

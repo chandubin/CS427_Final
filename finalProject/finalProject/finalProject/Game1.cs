@@ -8,6 +8,7 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
+using ScreenManager;
 
 namespace finalProject
 {
@@ -31,6 +32,15 @@ namespace finalProject
         /// related content.  Calling base.Initialize will enumerate through any components
         /// and initialize them as well.
         /// </summary>
+        KeyboardState keyboardState;
+        KeyboardState oldKeyboardState;
+
+        GameScreen activeScreen;
+        StartScreen startScreen;
+        ActionScreen actionScreen;
+        //MenuComponent menuComponent;
+
+        
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
@@ -46,6 +56,26 @@ namespace finalProject
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            Content.RootDirectory=@"Content\UserInterface";
+            startScreen = new StartScreen(
+                this,
+                spriteBatch,
+                Content.Load<SpriteFont>("menufont"),
+                
+                Content.Load<Texture2D>("title_screen_wide"));
+            Components.Add(startScreen);
+            startScreen.Hide();
+
+            actionScreen = new ActionScreen(
+                this,
+                spriteBatch,
+                Content.Load<Texture2D>("title_screen_wide"));
+            
+            Components.Add(actionScreen);
+            actionScreen.Hide();
+
+            activeScreen = startScreen;
+            activeScreen.Show();
 
             // TODO: use this.Content to load your game content here
         }
@@ -66,13 +96,28 @@ namespace finalProject
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-            // Allows the game to exit
+            keyboardState = Keyboard.GetState();
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            // TODO: Add your update logic here
-
+            if (activeScreen == startScreen)
+            {
+                if (CheckKey(Keys.Enter))
+                {
+                    if (startScreen.SelectedIndex == 0)
+                    {
+                        activeScreen.Hide();
+                        activeScreen = actionScreen;
+                        activeScreen.Show();
+                    }
+                    if (startScreen.SelectedIndex == 1)
+                    {
+                        this.Exit();
+                    }
+                }
+            }
             base.Update(gameTime);
+            oldKeyboardState = keyboardState;
         }
 
         /// <summary>
@@ -84,8 +129,14 @@ namespace finalProject
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
-
+            
             base.Draw(gameTime);
+            
+        }
+        private bool CheckKey(Keys theKey)
+        {
+            return keyboardState.IsKeyUp(theKey) &&
+                oldKeyboardState.IsKeyDown(theKey);
         }
     }
 }

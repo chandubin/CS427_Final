@@ -1,6 +1,8 @@
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\title_screen_wide.xnb
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\finalProject.exe
-C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\finalProject.pdb
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\obj\x86\Debug\finalProject.csprojResolveAssemblyReference.cache
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\obj\x86\Debug\finalProject.exe
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\obj\x86\Debug\finalProject.pdb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\menufont.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\finalProject.pdb
