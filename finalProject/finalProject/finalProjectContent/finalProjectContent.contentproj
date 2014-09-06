@@ -55,6 +55,237 @@
       <Processor>FontDescriptionProcessor</Processor>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\splash.PNG">
+      <Name>splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SelectionMap\map_selection.PNG">
+      <Name>map_selection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Map\CrossRoad\" />
+    <Folder Include="Map\CrystalCave\" />
+    <Folder Include="Map\DryLand\" />
+    <Folder Include="Map\GrassLand\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\help1.PNG">
+      <Name>help1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\help2.PNG">
+      <Name>help2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\help3.PNG">
+      <Name>help3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\Background01.png">
+      <Name>Background01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_level_easy01.png">
+      <Name>button_selection_level_easy01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_level_easy_circle01.PNG">
+      <Name>button_selection_level_easy_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_level_hard01.png">
+      <Name>button_selection_level_hard01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_level_hard_circle01.PNG">
+      <Name>button_selection_level_hard_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_level_medium01.png">
+      <Name>button_selection_level_medium01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_level_medium_circle01.PNG">
+      <Name>button_selection_level_medium_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_mode01.png">
+      <Name>button_selection_mode01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_mode_circle01.PNG">
+      <Name>button_selection_mode_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_square01.png">
+      <Name>button_selection_square01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_square_circle01.PNG">
+      <Name>button_selection_square_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_vertical_circle01.PNG">
+      <Name>button_selection_vertical_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\help01.png">
+      <Name>help01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\help_circle01.PNG">
+      <Name>help_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\option01.png">
+      <Name>option01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\option_circle01.PNG">
+      <Name>option_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\play01.png">
+      <Name>play01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\play_circle01.PNG">
+      <Name>play_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\resume01.png">
+      <Name>resume01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\resume_circle01.PNG">
+      <Name>resume_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\score01.png">
+      <Name>score01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\score_circle01.PNG">
+      <Name>score_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\start01.PNG">
+      <Name>start01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\start_circle01.PNG">
+      <Name>start_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\start_disabled01.PNG">
+      <Name>start_disabled01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\start_selected01.PNG">
+      <Name>start_selected01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\button_selection_vertical01.png">
+      <Name>button_selection_vertical01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\button_selection_square_help01.png">
+      <Name>button_selection_square_help01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_selection_square_help_circle01.PNG">
+      <Name>button_selection_square_help_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\title_option01.PNG">
+      <Name>title_option01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\button_option_square_circle01.PNG">
+      <Name>button_option_square_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\button_check01.png">
+      <Name>button_check01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_check_circle01.PNG">
+      <Name>button_check_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_option_square01.png">
+      <Name>button_option_square01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\button_option_ok01.png">
+      <Name>button_option_ok01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\button_option_ok_circle01.PNG">
+      <Name>button_option_ok_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
   <!--  To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

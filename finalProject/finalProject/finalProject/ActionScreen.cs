@@ -41,6 +41,7 @@ namespace ScreenManager
             spriteBatch.Begin();
             spriteBatch.Draw(image, imageRectangle, Color.White);
             spriteBatch.End();
+          
 			base.Draw(gameTime);
 		}
 	}

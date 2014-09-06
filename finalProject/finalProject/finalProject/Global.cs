@@ -6,7 +6,7 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework;
 
 
-namespace WindowsGame1
+namespace finalProject
 {
     class Global
     {
@@ -24,9 +24,12 @@ namespace WindowsGame1
 //        public static TileMap myMap;
         public static List<String> saveEntities=new List<string>();
   //      public static TileMap saveMap;
-        public static int numberOfDragon=0;
-        public static int idxEntities = -1, idxMenu = -1;
-        public static int flag = -1;
+        public static bool Resume = false;// false means can not resume
+        public static string currentScreen = "welcomeScreen";
+        public static int level = 0;
+        public static int mode = 0;
+        public static int helpState = 1;
+        
     }
         
 }

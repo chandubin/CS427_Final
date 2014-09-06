@@ -1,5 +1,5 @@
 ﻿using Microsoft.Xna.Framework;
-namespace WindowsGame1
+namespace finalProject
 {
     public class Camera2D : InvisibleGameEntity
     {

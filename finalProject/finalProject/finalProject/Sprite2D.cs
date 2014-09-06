@@ -6,12 +6,18 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 
 
-namespace WindowsGame1
+namespace finalProject
 {
     public class Sprite2D : GameModel
     {
         private List<Texture2D> _Texture=new List<Texture2D>();
+        private float _LayerDepth = 1;
 
+        public float LayerDepth
+        {
+            get { return _LayerDepth; }
+            set { _LayerDepth = value; }
+        }
         public List<Texture2D> Texture
         {
             get { return _Texture; }
@@ -19,6 +25,7 @@ namespace WindowsGame1
             _nTextures = _Texture.Count;
             _iTexture = 0;
             DetectResourceSize();
+                
                 }
         }
         private int _nTextures;
@@ -179,7 +186,7 @@ namespace WindowsGame1
         private float ddelta=1;
         public override void Update(GameTime gameTime)
         {
-            
+           
             _iTexture = (_iTexture + 1) % _nTextures;
             base.Update(gameTime);
             double t = gameTime.TotalGameTime.TotalMilliseconds;
@@ -210,34 +217,73 @@ namespace WindowsGame1
         {
             NORMAL,
             SELECTED,
-            MOUSEOVER
+            DISABLED,
+            CIRCLE
         }
-        private SPRITE_STATE _State = SPRITE_STATE.NORMAL;
+        private SPRITE_STATE _State = SPRITE_STATE.NORMAL ;
 
         public SPRITE_STATE State
         {
             get { return _State; }
-            set { _State = value; }
+            set { _State = value;
+            reLoadResource();
+            }
         }
-
+        private void reLoadResource()
+        {
+            if (_State == SPRITE_STATE.SELECTED)
+            {
+                LoadResource(this.strResourceName + "_selected", this.nRes);
+            }
+            else if (_State == SPRITE_STATE.DISABLED)
+            {
+                LoadResource(this.strResourceName + "_disabled", this.nRes);
+            }
+            else if (_State == SPRITE_STATE.CIRCLE)
+            {
+                LoadResource(this.strResourceName + "_circle", this.nRes);
+            }
+            else //normal
+            {
+                LoadResource(this.strResourceName, this.nRes);
+            }
+        }
         public override void Select(bool bSelect)
         {
             if (bSelect)
             {
                 _State = SPRITE_STATE.SELECTED;
                 _Delay = 1;
+                reLoadResource();
             }
             else
             {
                 _State = SPRITE_STATE.NORMAL;
                 _Delay = 50;
+                reLoadResource();
             }
         }
+        public override void Circle(bool bSelect)
+        {
+            if (bSelect)
+            {
+                _State = SPRITE_STATE.CIRCLE;
+                _Delay = 1;
+                reLoadResource();
+            }
+            else
+            {
+                _State = SPRITE_STATE.NORMAL;
+                _Delay = 50;
+                reLoadResource();
+            }
+        }
+        
         public override void Over(bool bOver)
         {
             if (bOver)
             {
-                _State = SPRITE_STATE.MOUSEOVER;
+                _State = SPRITE_STATE.DISABLED;
                 _Delay = 1;
             }
             else

@@ -23,6 +23,8 @@ namespace finalProject
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            graphics.PreferredBackBufferWidth = 960;
+            graphics.PreferredBackBufferHeight = 540;
             Content.RootDirectory = "Content";
         }
 
@@ -38,6 +40,9 @@ namespace finalProject
         GameScreen activeScreen;
         StartScreen startScreen;
         ActionScreen actionScreen;
+        WelcomeScreen welcomeScreen;
+        SelectionMapScreen selectionMapScreen;
+        HelpScreen helpScreen;
         //MenuComponent menuComponent;
 
         
@@ -56,25 +61,53 @@ namespace finalProject
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            Content.RootDirectory=@"Content\UserInterface";
+            Content.RootDirectory=@"Content";
+            Global.Content = Content;
             startScreen = new StartScreen(
                 this,
                 spriteBatch,
-                Content.Load<SpriteFont>("menufont"),
-                
-                Content.Load<Texture2D>("title_screen_wide"));
+                Content.Load<SpriteFont>(@"UserInterface\menufont"),
+
+                Content.Load<Texture2D>(@"UserInterface\title_screen_wide"));
+            
             Components.Add(startScreen);
             startScreen.Hide();
 
             actionScreen = new ActionScreen(
                 this,
                 spriteBatch,
-                Content.Load<Texture2D>("title_screen_wide"));
+                Content.Load<Texture2D>(@"UserInterface\title_screen_wide"));
             
             Components.Add(actionScreen);
             actionScreen.Hide();
 
-            activeScreen = startScreen;
+            
+            selectionMapScreen = new SelectionMapScreen(
+                this,
+                spriteBatch,
+                Content.Load<Texture2D>(@"SelectionMap\map_selection"));
+
+            Components.Add(selectionMapScreen);
+            selectionMapScreen.Hide();
+
+            welcomeScreen = new WelcomeScreen(
+                this,
+                spriteBatch,
+                Content.Load<Texture2D>(@"UserInterface\splash"));
+
+            Components.Add(welcomeScreen);
+            welcomeScreen.Hide();
+
+            helpScreen = new HelpScreen(
+                this,
+                spriteBatch,
+                Content.Load<Texture2D>(@"UserInterface\help1"));
+
+            Components.Add(helpScreen);
+            helpScreen.Hide();
+
+
+            activeScreen = welcomeScreen;
             activeScreen.Show();
 
             // TODO: use this.Content to load your game content here
@@ -96,28 +129,40 @@ namespace finalProject
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-            keyboardState = Keyboard.GetState();
-            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
-                this.Exit();
 
-            if (activeScreen == startScreen)
+            activeScreen.Hide();   
+            switch (Global.currentScreen)
             {
-                if (CheckKey(Keys.Enter))
-                {
-                    if (startScreen.SelectedIndex == 0)
+                case "welcomeScreen":
                     {
-                        activeScreen.Hide();
-                        activeScreen = actionScreen;
-                        activeScreen.Show();
+                        activeScreen = welcomeScreen;
+                        break;
                     }
-                    if (startScreen.SelectedIndex == 1)
+                case "startScreen":
                     {
-                        this.Exit();
+                        activeScreen = startScreen;
+                        break;
                     }
-                }
+                case "selectionMap":
+                    {
+                        activeScreen = selectionMapScreen;
+                        break;
+                    }
+                case "helpScreen":
+                    {
+                        activeScreen = helpScreen;
+                        break;
+                    }
+            }
+            activeScreen.Show();
+            double t = gameTime.TotalGameTime.TotalMilliseconds;
+            if (t > 100 && activeScreen == welcomeScreen)
+            {
+                activeScreen.Hide();
+                activeScreen = startScreen;
+                activeScreen.Show();
             }
             base.Update(gameTime);
-            oldKeyboardState = keyboardState;
         }
 
         /// <summary>
@@ -133,10 +178,6 @@ namespace finalProject
             base.Draw(gameTime);
             
         }
-        private bool CheckKey(Keys theKey)
-        {
-            return keyboardState.IsKeyUp(theKey) &&
-                oldKeyboardState.IsKeyDown(theKey);
-        }
+        
     }
 }

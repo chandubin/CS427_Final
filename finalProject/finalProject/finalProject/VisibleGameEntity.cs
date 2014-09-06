@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace WindowsGame1
+namespace finalProject
 {
     public abstract class VisibleGameEntity : GameEntity
     {
@@ -37,6 +37,7 @@ namespace WindowsGame1
             if (_MainModel != null)
             {
                 _MainModel.Select(bSelect);
+               
             }
         }
 

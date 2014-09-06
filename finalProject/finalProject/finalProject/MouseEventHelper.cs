@@ -5,11 +5,11 @@ using System.Text;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework;
 
-namespace WindowsGame1
+namespace finalProject
 {
     class MouseEventHelper : InvisibleGameEntity
     {
-        private MouseState CurrentState,PreviousState;
+        public MouseState CurrentState,PreviousState;
       
         private void Process()
         {

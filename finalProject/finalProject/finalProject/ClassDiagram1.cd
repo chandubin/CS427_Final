@@ -1,94 +1,116 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="ScreenManager.ActionScreen" Collapsed="true">
-    <Position X="7" Y="2" Width="1.5" />
+    <Position X="7.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEAIAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ActionScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Game1" Collapsed="true">
-    <Position X="10.5" Y="2" Width="1.5" />
+    <Position X="11.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAFEIAAAAAAwAAAAAAAAAAgIAgAAgABAAAAAAAAAQ=</HashCode>
+      <HashCode>AAQAFGIAAAAAAwAAAAAAAAAAgIAgAAgABAAAAAAAAAQ=</HashCode>
       <FileName>Game1.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.GameScreen" Collapsed="true">
-    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Position X="8.25" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAEAAAAAAA4AAEACAAAAAAAAEAAAIAAAAAAAAAAA=</HashCode>
       <FileName>GameScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.MenuComponent" Collapsed="true">
-    <Position X="7.5" Y="3.75" Width="1.5" />
+    <Position X="9" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEEIAAgAAAwQAQCgQIAgAAAAggAAABIAAAAAAAAA=</HashCode>
       <FileName>MenuComponent.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Program" Collapsed="true">
-    <Position X="10.75" Y="4" Width="1.5" />
+    <Position X="11.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="finalProject.StartScreen" Collapsed="true">
-    <Position X="8.75" Y="2" Width="1.5" />
+  <Class Name="finalProject.WelcomeScreen" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAEAAAAAAAAgAAAAEAAAAAEAAAAAAAAIAAAAAAAAA=</HashCode>
-      <FileName>StartScreen.cs</FileName>
+      <HashCode>AAQAEAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WelcomeScreen.cs</FileName>
+      <NewMemberFileName>StartScreen.cs</NewMemberFileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WindowsGame1.Camera2D" Collapsed="true">
-    <Position X="2.75" Y="3" Width="1.5" />
+  <Class Name="finalProject.Camera2D" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQEQAAgALADACAAECIGCAASAAAFAQAAAAAGAEAQAAA=</HashCode>
       <FileName>Camera2D.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WindowsGame1.GameEntity" Collapsed="true">
-    <Position X="1.25" Y="0.5" Width="1.5" />
+  <Class Name="finalProject.GameEntity" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WindowsGame1.GameModel" Collapsed="true">
-    <Position X="0.5" Y="3.5" Width="1.5" />
+  <Class Name="finalProject.GameModel" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAEgAAAAIAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
       <FileName>GameModel.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WindowsGame1.InvisibleGameEntity" Collapsed="true">
-    <Position X="3" Y="1.75" Width="1.5" />
+  <Class Name="finalProject.InvisibleGameEntity" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>InvisibleGameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WindowsGame1.MouseEventHelper" Collapsed="true">
-    <Position X="4.5" Y="3" Width="1.5" />
+  <Class Name="finalProject.MouseEventHelper" Collapsed="true">
+    <Position X="6.75" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAYAAAgAAAAAAAAAggACACABAAAEAAAACAQAAAgAAAA=</HashCode>
       <FileName>MouseEventHelper.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WindowsGame1.Sprite2D" Collapsed="true">
-    <Position X="0.5" Y="4.75" Width="1.5" />
+  <Class Name="finalProject.Sprite2D" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AIRBRAgAJQAAEkiEAAMAAEACAAAKAAAACEYAROAAABA=</HashCode>
+      <HashCode>AIRBRAgAJQAAEkiEAAMAAEACAIAKAAAACEYAReAAABA=</HashCode>
       <FileName>Sprite2D.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WindowsGame1.VisibleGameEntity" Collapsed="true">
-    <Position X="0.5" Y="1.75" Width="1.5" />
+  <Class Name="finalProject.VisibleGameEntity" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAEgAAAAIAAAAAAAQAAAAAAAAAQAAAAAA=</HashCode>
       <FileName>VisibleGameEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.Global" Collapsed="true">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACIAgAQAAAAAAABAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.MenuDialog" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABEgAAAAQAAAAAgAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>MenuDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.MenuDialogItem" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuDialogItem.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

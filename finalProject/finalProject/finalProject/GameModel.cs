@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace WindowsGame1
+namespace finalProject
 {
-    public abstract class GameModel : VisibleGameEntity
+    public abstract class GameModel
     {
 
         public virtual void Update(GameTime gameTime)
@@ -24,7 +24,9 @@ namespace WindowsGame1
         {
             
         }
-
+        public virtual void Circle(bool bCircle)
+        {
+        }
         public virtual void Over(bool bOver)
         {
            
