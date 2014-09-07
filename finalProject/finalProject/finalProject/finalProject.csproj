@@ -108,7 +108,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActionScreen.cs" />
+    <Compile Include="Animation2D.cs" />
     <Compile Include="Camera2D.cs" />
+    <Compile Include="Enemy.cs" />
     <Compile Include="GameEntity.cs" />
     <Compile Include="GameModel.cs" />
     <Compile Include="GameScreen.cs" />
@@ -119,6 +121,7 @@
     <Compile Include="MenuDialog.cs" />
     <Compile Include="MenuDialogItem.cs" />
     <Compile Include="MouseEventHelper.cs" />
+    <Compile Include="Plane.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />

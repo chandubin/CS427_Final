@@ -7,26 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\title_screen_wide.xnb</Output>
-      <Time>2014-07-18T00:53:13.7913212+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\menufont.spritefont</Source>
-      <Name>UserInterface\menufont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\menufont.xnb</Output>
-      <Time>2014-09-03T14:16:07.9206906+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\Background01.png</Source>
-      <Name>UserInterface\Button\Background01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\Background01.xnb</Output>
-      <Time>2014-09-04T22:49:45.7709048+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\title_screen_wide.xnb</Output>
+      <Time>2014-09-03T21:52:28.5757214+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\splash.PNG</Source>
@@ -34,98 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\splash.xnb</Output>
-      <Time>2014-07-18T00:53:13.753319+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\play01.png</Source>
-      <Name>UserInterface\Button\play01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\play01.xnb</Output>
-      <Time>2014-09-05T00:32:47.4717447+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\play_circle01.PNG</Source>
-      <Name>UserInterface\Button\play_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\play_circle01.xnb</Output>
-      <Time>2014-09-05T00:02:28.8014559+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\resume_circle01.PNG</Source>
-      <Name>UserInterface\Button\resume_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\resume_circle01.xnb</Output>
-      <Time>2014-09-05T00:17:43.5457763+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\resume01.png</Source>
-      <Name>UserInterface\Button\resume01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\resume01.xnb</Output>
-      <Time>2014-09-05T00:32:47.4717447+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\score_circle01.PNG</Source>
-      <Name>UserInterface\Button\score_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\score_circle01.xnb</Output>
-      <Time>2014-09-05T00:19:35.1061572+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\score01.png</Source>
-      <Name>UserInterface\Button\score01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\score01.xnb</Output>
-      <Time>2014-09-05T00:32:47.4717447+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\help_circle01.PNG</Source>
-      <Name>UserInterface\Button\help_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\help_circle01.xnb</Output>
-      <Time>2014-09-05T00:24:11.5411277+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\option_circle01.PNG</Source>
-      <Name>UserInterface\Button\option_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\option_circle01.xnb</Output>
-      <Time>2014-09-05T00:23:35.7910872+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\option01.png</Source>
-      <Name>UserInterface\Button\option01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\option01.xnb</Output>
-      <Time>2014-09-05T00:32:47.4717447+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\help01.png</Source>
-      <Name>UserInterface\Button\help01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\help01.xnb</Output>
-      <Time>2014-09-05T00:32:47.4717447+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\splash.xnb</Output>
+      <Time>2014-09-07T00:33:44.8726278+07:00</Time>
     </Item>
     <Item>
       <Source>SelectionMap\map_selection.PNG</Source>
@@ -133,134 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\SelectionMap\map_selection.xnb</Output>
-      <Time>2014-07-18T00:53:13.701316+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_mode01.png</Source>
-      <Name>UserInterface\Button\button_selection_mode01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_mode01.xnb</Output>
-      <Time>2014-09-05T13:30:35.9663833+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\start01.PNG</Source>
-      <Name>UserInterface\Button\start01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\start01.xnb</Output>
-      <Time>2014-07-18T00:53:13.7613195+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\start_disabled01.PNG</Source>
-      <Name>UserInterface\Button\start_disabled01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\start_disabled01.xnb</Output>
-      <Time>2014-07-18T00:53:13.7563192+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\start_selected01.PNG</Source>
-      <Name>UserInterface\Button\start_selected01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\start_selected01.xnb</Output>
-      <Time>2014-07-18T00:53:13.7583193+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\start_circle01.PNG</Source>
-      <Name>UserInterface\Button\start_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\start_circle01.xnb</Output>
-      <Time>2014-07-18T00:53:13.7583193+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_mode_circle01.PNG</Source>
-      <Name>UserInterface\Button\button_selection_mode_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_mode_circle01.xnb</Output>
-      <Time>2014-09-05T13:33:07.0240233+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_level_easy_circle01.PNG</Source>
-      <Name>UserInterface\Button\button_selection_level_easy_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_easy_circle01.xnb</Output>
-      <Time>2014-09-05T13:07:24.9958244+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_level_easy01.png</Source>
-      <Name>UserInterface\Button\button_selection_level_easy01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_easy01.xnb</Output>
-      <Time>2014-09-05T13:37:15.3702279+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_level_hard01.png</Source>
-      <Name>UserInterface\Button\button_selection_level_hard01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_hard01.xnb</Output>
-      <Time>2014-09-04T22:49:45.7709048+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_level_hard_circle01.PNG</Source>
-      <Name>UserInterface\Button\button_selection_level_hard_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_hard_circle01.xnb</Output>
-      <Time>2014-09-05T13:21:56.7636866+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_level_medium01.png</Source>
-      <Name>UserInterface\Button\button_selection_level_medium01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_medium01.xnb</Output>
-      <Time>2014-09-04T22:49:45.7709048+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_level_medium_circle01.PNG</Source>
-      <Name>UserInterface\Button\button_selection_level_medium_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_medium_circle01.xnb</Output>
-      <Time>2014-09-05T13:19:16.9365451+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_square_circle01.PNG</Source>
-      <Name>UserInterface\Button\button_selection_square_circle01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_square_circle01.xnb</Output>
-      <Time>2014-09-05T23:25:16.9823048+07:00</Time>
-    </Item>
-    <Item>
-      <Source>UserInterface\Button\button_selection_square01.png</Source>
-      <Name>UserInterface\Button\button_selection_square01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_square01.xnb</Output>
-      <Time>2014-09-05T23:25:47.1570307+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\SelectionMap\map_selection.xnb</Output>
+      <Time>2014-09-07T00:33:42.3074811+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\help1.PNG</Source>
@@ -268,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\help1.xnb</Output>
-      <Time>2014-07-18T00:53:13.5883096+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\help1.xnb</Output>
+      <Time>2014-09-07T00:33:44.125585+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\help2.PNG</Source>
@@ -277,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\help2.xnb</Output>
-      <Time>2014-07-18T00:53:13.59631+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\help2.xnb</Output>
+      <Time>2014-09-07T00:33:44.4586041+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\help3.PNG</Source>
@@ -286,8 +52,107 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\help3.xnb</Output>
-      <Time>2014-07-18T00:53:13.6043105+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\help3.xnb</Output>
+      <Time>2014-09-07T00:33:44.8436261+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\Background01.png</Source>
+      <Name>UserInterface\Button\Background01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\Background01.xnb</Output>
+      <Time>2014-09-07T00:33:42.3164816+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_level_easy01.png</Source>
+      <Name>UserInterface\Button\button_selection_level_easy01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_easy01.xnb</Output>
+      <Time>2014-09-07T00:33:42.8515122+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_level_easy_circle01.PNG</Source>
+      <Name>UserInterface\Button\button_selection_level_easy_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_easy_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.8955147+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_level_hard01.png</Source>
+      <Name>UserInterface\Button\button_selection_level_hard01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_hard01.xnb</Output>
+      <Time>2014-09-07T00:33:42.8995149+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_level_hard_circle01.PNG</Source>
+      <Name>UserInterface\Button\button_selection_level_hard_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_hard_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9025151+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_level_medium01.png</Source>
+      <Name>UserInterface\Button\button_selection_level_medium01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_medium01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9035151+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_level_medium_circle01.PNG</Source>
+      <Name>UserInterface\Button\button_selection_level_medium_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_level_medium_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9075154+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_mode01.png</Source>
+      <Name>UserInterface\Button\button_selection_mode01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_mode01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9095155+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_mode_circle01.PNG</Source>
+      <Name>UserInterface\Button\button_selection_mode_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_mode_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.918516+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_square01.png</Source>
+      <Name>UserInterface\Button\button_selection_square01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_square01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9205161+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\button_selection_square_circle01.PNG</Source>
+      <Name>UserInterface\Button\button_selection_square_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_square_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9235163+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_selection_vertical_circle01.PNG</Source>
@@ -295,8 +160,134 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_vertical_circle01.xnb</Output>
-      <Time>2014-09-06T00:57:12.982517+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_vertical_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9795195+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\help01.png</Source>
+      <Name>UserInterface\Button\help01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\help01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9855198+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\help_circle01.PNG</Source>
+      <Name>UserInterface\Button\help_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\help_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:43.547552+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\option01.png</Source>
+      <Name>UserInterface\Button\option01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\option01.xnb</Output>
+      <Time>2014-09-07T00:33:43.5555524+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\option_circle01.PNG</Source>
+      <Name>UserInterface\Button\option_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\option_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:43.564553+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\play01.png</Source>
+      <Name>UserInterface\Button\play01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\play01.xnb</Output>
+      <Time>2014-09-07T00:33:43.5725534+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\play_circle01.PNG</Source>
+      <Name>UserInterface\Button\play_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\play_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:43.8265679+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\resume01.png</Source>
+      <Name>UserInterface\Button\resume01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\resume01.xnb</Output>
+      <Time>2014-09-07T00:33:43.8565697+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\resume_circle01.PNG</Source>
+      <Name>UserInterface\Button\resume_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\resume_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:43.9445747+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\score01.png</Source>
+      <Name>UserInterface\Button\score01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\score01.xnb</Output>
+      <Time>2014-09-07T00:33:43.9465748+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\score_circle01.PNG</Source>
+      <Name>UserInterface\Button\score_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\score_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:43.9475749+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\start01.PNG</Source>
+      <Name>UserInterface\Button\start01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\start01.xnb</Output>
+      <Time>2014-09-07T00:33:43.9485749+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\start_circle01.PNG</Source>
+      <Name>UserInterface\Button\start_circle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\start_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:43.9805767+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\start_disabled01.PNG</Source>
+      <Name>UserInterface\Button\start_disabled01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\start_disabled01.xnb</Output>
+      <Time>2014-09-07T00:33:43.9815768+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\Button\start_selected01.PNG</Source>
+      <Name>UserInterface\Button\start_selected01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\start_selected01.xnb</Output>
+      <Time>2014-09-07T00:33:43.985577+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_selection_vertical01.png</Source>
@@ -304,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_vertical01.xnb</Output>
-      <Time>2014-09-06T00:58:46.0492107+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_vertical01.xnb</Output>
+      <Time>2014-09-07T00:33:42.971519+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_selection_square_help01.png</Source>
@@ -313,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_square_help01.xnb</Output>
-      <Time>2014-09-06T00:55:07.9935923+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_square_help01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9255164+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_selection_square_help_circle01.PNG</Source>
@@ -322,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_square_help_circle01.xnb</Output>
-      <Time>2014-09-06T00:54:50.9526219+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_selection_square_help_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.9635186+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\title_option01.PNG</Source>
@@ -331,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\title_option01.xnb</Output>
-      <Time>2014-09-06T01:40:20.0052448+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\title_option01.xnb</Output>
+      <Time>2014-09-07T00:33:44.9886344+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_option_square_circle01.PNG</Source>
@@ -340,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_square_circle01.xnb</Output>
-      <Time>2014-09-06T02:02:54.6167241+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_square_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.848512+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_check01.png</Source>
@@ -349,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_check01.xnb</Output>
-      <Time>2014-09-06T02:16:28.3882692+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_check01.xnb</Output>
+      <Time>2014-09-07T00:33:42.3494835+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_check_circle01.PNG</Source>
@@ -358,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_check_circle01.xnb</Output>
-      <Time>2014-07-18T00:53:13.4873038+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_check_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.6595012+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_option_square01.png</Source>
@@ -367,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_square01.xnb</Output>
-      <Time>2014-09-06T02:06:44.0668479+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_square01.xnb</Output>
+      <Time>2014-09-07T00:33:42.8265107+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_option_ok01.png</Source>
@@ -376,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_ok01.xnb</Output>
-      <Time>2014-09-06T02:23:04.3849189+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_ok01.xnb</Output>
+      <Time>2014-09-07T00:33:42.8265107+07:00</Time>
     </Item>
     <Item>
       <Source>UserInterface\Button\button_option_ok_circle01.PNG</Source>
@@ -385,8 +376,26 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_ok_circle01.xnb</Output>
-      <Time>2014-09-06T02:22:00.4522621+07:00</Time>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_ok_circle01.xnb</Output>
+      <Time>2014-09-07T00:33:42.8265107+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Plane.png</Source>
+      <Name>Enemy\Plane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\Plane.xnb</Output>
+      <Time>2014-07-18T00:53:11.952216+07:00</Time>
+    </Item>
+    <Item>
+      <Source>UserInterface\menufont.spritefont</Source>
+      <Name>UserInterface\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\menufont.xnb</Output>
+      <Time>2014-09-03T21:52:28.5697211+07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -394,39 +403,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProjectContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProjectContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-24T02:41:18+07:00</Value>
+        <Value>2010-08-23T12:41:18+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-24T02:41:18+07:00</Value>
+        <Value>2010-08-23T12:41:18+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-24T02:41:18+07:00</Value>
+        <Value>2010-08-23T12:41:18+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-24T02:41:18+07:00</Value>
+        <Value>2010-08-23T12:41:18+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-24T02:41:18+07:00</Value>
+        <Value>2010-08-23T12:41:18+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-24T02:41:18+07:00</Value>
+        <Value>2010-08-23T12:41:18+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-08-14T10:27:14.5606458+07:00</Value>
+        <Value>2014-09-02T17:58:14.7664355+07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

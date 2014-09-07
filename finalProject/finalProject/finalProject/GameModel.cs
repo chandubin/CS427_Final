@@ -31,5 +31,23 @@ namespace finalProject
         {
            
         }
+        public virtual void changeState(int s)
+        {
+        }
+        public virtual void setRightAni(List<Rectangle> RA)
+        {
+        }
+
+        public virtual void setLeftAni(List<Rectangle> RA)
+        {
+        }
+
+        public virtual void setUpAni(List<Rectangle> RA)
+        {
+        }
+
+        public virtual void setDownAni(List<Rectangle> RA)
+        {
+        }
     }
 }
