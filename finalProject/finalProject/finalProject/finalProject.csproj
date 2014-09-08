@@ -115,8 +115,10 @@
     <Compile Include="GameModel.cs" />
     <Compile Include="GameScreen.cs" />
     <Compile Include="Global.cs" />
+    <Compile Include="HeavyUnit.cs" />
     <Compile Include="HelpScreen.cs" />
     <Compile Include="InvisibleGameEntity.cs" />
+    <Compile Include="LightUnit.cs" />
     <Compile Include="MenuComponent.cs" />
     <Compile Include="MenuDialog.cs" />
     <Compile Include="MenuDialogItem.cs" />
@@ -127,6 +129,7 @@
     <Compile Include="Game1.cs" />
     <Compile Include="SelectionMapScreen.cs" />
     <Compile Include="Sprite2D.cs" />
+    <Compile Include="Spritesheet.cs" />
     <Compile Include="StartScreen.cs" />
     <Compile Include="VisibleGameEntity.cs" />
     <Compile Include="WelcomeScreen.cs" />

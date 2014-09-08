@@ -93,7 +93,7 @@ C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_square01.xnb
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_ok01.xnb
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\button_option_ok_circle01.xnb
-C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\Plane.xnb
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\menufont.xnb
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\finalProject.exe
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\finalProject.pdb
+C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\Plane01.xnb

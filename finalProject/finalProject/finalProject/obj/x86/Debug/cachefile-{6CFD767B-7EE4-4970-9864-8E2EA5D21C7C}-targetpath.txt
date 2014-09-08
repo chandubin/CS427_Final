@@ -40,5 +40,5 @@ Content\UserInterface\Button\button_check_circle01.xnb
 Content\UserInterface\Button\button_option_square01.xnb
 Content\UserInterface\Button\button_option_ok01.xnb
 Content\UserInterface\Button\button_option_ok_circle01.xnb
-Content\Enemy\Plane.xnb
 Content\UserInterface\menufont.xnb
+Content\Enemy\Plane01.xnb

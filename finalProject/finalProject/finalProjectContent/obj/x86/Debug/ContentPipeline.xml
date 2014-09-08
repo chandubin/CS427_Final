@@ -380,15 +380,6 @@
       <Time>2014-09-07T00:33:42.8265107+07:00</Time>
     </Item>
     <Item>
-      <Source>Enemy\Plane.png</Source>
-      <Name>Enemy\Plane</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\Plane.xnb</Output>
-      <Time>2014-07-18T00:53:11.952216+07:00</Time>
-    </Item>
-    <Item>
       <Source>UserInterface\menufont.spritefont</Source>
       <Name>UserInterface\menufont</Name>
       <Importer>FontDescriptionImporter</Importer>
@@ -396,6 +387,15 @@
       <Options>None</Options>
       <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\menufont.xnb</Output>
       <Time>2014-09-03T21:52:28.5697211+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Plane01.png</Source>
+      <Name>Enemy\Plane01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\Plane01.xnb</Output>
+      <Time>2014-07-18T00:53:11.952216+07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

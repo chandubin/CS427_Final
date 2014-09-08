@@ -36,16 +36,16 @@ namespace finalProject
         }
        
 
-        public virtual void setUpAni(List<Rectangle> RA)
+        public virtual void setUpAni(List<Spritesheet> RA)
         {
         }
 
-        public virtual void setRightAni(List<Rectangle> RA)
+        public virtual void setRightAni(List<Spritesheet> RA)
         {
         }
 
 
-        public virtual void setDownAni(List<Rectangle> RA)
+        public virtual void setDownAni(List<Spritesheet> RA)
         {
         }
     }

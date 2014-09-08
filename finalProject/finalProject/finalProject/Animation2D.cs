@@ -9,60 +9,60 @@ namespace finalProject
 {
     public class Animation2D : GameModel
     {
-        private Texture2D _Texture;
-        private List<Rectangle> _RightAni = new List<Rectangle>();
+        private List<Texture2D> _Texture = new List<Texture2D>();
+        private List<Spritesheet> _RightAni = new List<Spritesheet>();
 
-        public List<Rectangle> RightAni
+        public List<Spritesheet> RightAni
         {
             get { return _RightAni; }
             set { _RightAni = value; }
         }
 
-        private List<Rectangle> _LeftAni = new List<Rectangle>();
+        private List<Spritesheet> _LeftAni = new List<Spritesheet>();
 
-        public List<Rectangle> LeftAni
+        public List<Spritesheet> LeftAni
         {
             get { return _LeftAni; }
             set { _LeftAni = value; }
         }
-        private List<Rectangle> _UpAni = new List<Rectangle>();
+        private List<Spritesheet> _UpAni = new List<Spritesheet>();
 
 
 
-        public List<Rectangle> UpAni
+        public List<Spritesheet> UpAni
         {
             get { return _UpAni; }
             set { _UpAni = value; }
         }
-        private List<Rectangle> _DownAni = new List<Rectangle>();
+        private List<Spritesheet> _DownAni = new List<Spritesheet>();
 
-        public List<Rectangle> DownAni
+        public List<Spritesheet> DownAni
         {
             get { return _DownAni; }
             set { _DownAni = value; }
         }
-        private Rectangle Cur;
+        private Spritesheet Cur;
         private int p;
-        public Texture2D Texture
+        public List<Texture2D> Texture
         {
             get { return _Texture; }
             set { _Texture = value; }
         }
 
-        public override void setRightAni(List<Rectangle> RA)
+        public override void setRightAni(List<Spritesheet> RA)
         {
             RightAni = RA;
             Cur = RightAni[0];
             p = 0;
         }
 
-        public override void setDownAni(List<Rectangle> DA)
+        public override void setDownAni(List<Spritesheet> DA)
         {
             DownAni = DA;
         }
 
 
-        public override void setUpAni(List<Rectangle> UA)
+        public override void setUpAni(List<Spritesheet> UA)
         {
             UpAni = UA;
         }
@@ -92,17 +92,17 @@ namespace finalProject
 
         private int speed = 1;
 
-        public Animation2D(string strResourceName, int Left, int Top, int Width, int Height, int State)
+        public Animation2D(string strResourceName, int nRes, int Left, int Top, int Width, int Height, int State)
         {
             // TODO: Complete member initialization
             // TODO: Complete member initialization
             this.strResourceName = strResourceName;
-            LoadResource(strResourceName);
+            LoadResource(strResourceName, nRes);
             this.Left = Left;
             this.Top = Top;
             if (Width == 0 && Height == 0)
             {
-                DetectResourceSize();
+                // DetectResourceSize();
             }
             else
             {
@@ -113,17 +113,20 @@ namespace finalProject
         }
 
 
-        private void LoadResource(string strResourceName)
+        private void LoadResource(string strResourceName, int nRes)
         {
-            _Texture = Global.Content.Load<Texture2D>(strResourceName);
-
+            _Texture.Clear();
+            for (int i = 1; i <= nRes; i++)
+            {
+                _Texture.Add(Global.Content.Load<Texture2D>(strResourceName + i.ToString("00")));
+            }
         }
 
-        private void DetectResourceSize()
-        {
-            this.Width = _Texture.Width;
-            this.Height = _Texture.Height;
-        }
+        //private void DetectResourceSize()
+        //{
+        //    this.Width = _Texture.Width;
+        //    this.Height = _Texture.Height;
+        //}
 
         private float _Height;
         public float Height
@@ -137,10 +140,10 @@ namespace finalProject
             SpriteBatch spriteBatch = (SpriteBatch)Paramas;
             if (State == ANIMATION_STATE.GOINGLEFT)
             {
-                spriteBatch.Draw(_Texture, new Vector2(Left, Top), Cur, Color.White, 0.0f, new Vector2(0, 0), 1f, SpriteEffects.FlipHorizontally, 0.0f);
+                spriteBatch.Draw(_Texture[Cur.Sheet], new Vector2(Left, Top), Cur.Rec, Color.White, 0.0f, new Vector2(0, 0), 1f, SpriteEffects.FlipHorizontally, 0.0f);
             }
             else
-                spriteBatch.Draw(_Texture, new Vector2(Left, Top), Cur, Color.White);
+                spriteBatch.Draw(_Texture[Cur.Sheet], new Vector2(Left, Top), Cur.Rec, Color.White);
         }
         double t = 0;
         public override void Update(GameTime gameTime)

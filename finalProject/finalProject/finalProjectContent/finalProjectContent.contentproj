@@ -287,8 +287,27 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enemy\Plane.png">
-      <Name>Plane</Name>
+    <Compile Include="Enemy\Plane01.png">
+      <Name>Plane01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enemy\LightUnit01.png">
+      <Name>LightUnit01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enemy\HeavyUnit01.png">
+      <Name>HeavyUnit01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Enemy\HeavyUnit02.png">
+      <Name>HeavyUnit02</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
