@@ -43,6 +43,7 @@ namespace finalProject
         WelcomeScreen welcomeScreen;
         SelectionMapScreen selectionMapScreen;
         HelpScreen helpScreen;
+        IngameScreen ingameScreen;
         //MenuComponent menuComponent;
 
         
