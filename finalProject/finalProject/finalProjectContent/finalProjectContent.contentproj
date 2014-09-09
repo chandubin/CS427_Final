@@ -73,7 +73,6 @@
     <Folder Include="Map\CrossRoad\" />
     <Folder Include="Map\CrystalCave\" />
     <Folder Include="Map\DryLand\" />
-    <Folder Include="Map\GrassLand\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="UserInterface\help1.PNG">
@@ -315,6 +314,25 @@
   <ItemGroup>
     <Compile Include="UserInterface\Button\optionBar.PNG">
       <Name>optionBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\GrassLand\grasslands.png">
+      <Name>grasslands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Map\GrassLand\grasslands_grid.png">
+      <Name>grasslands_grid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Map\part1_tileset.png">
+      <Name>part1_tileset</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

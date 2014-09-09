@@ -108,6 +108,14 @@ namespace finalProject
             helpScreen.Hide();
 
 
+            ingameScreen = new IngameScreen(
+               this,
+               spriteBatch,
+               Content.Load<Texture2D>(@"Map\GrassLand\grasslands"));
+
+            Components.Add(ingameScreen);
+            ingameScreen.Hide();
+
             activeScreen = welcomeScreen;
             activeScreen.Show();
 
@@ -154,6 +162,23 @@ namespace finalProject
                         activeScreen = helpScreen;
                         break;
                     }
+                case "ingameScreen":
+                        {
+                            activeScreen=ingameScreen;
+                            break;
+                        }
+            }
+            if (activeScreen is IngameScreen)
+            {
+                graphics.PreferredBackBufferWidth = 1024;
+                graphics.PreferredBackBufferHeight = 683;
+                graphics.ApplyChanges();
+            }
+            else
+            {
+                graphics.PreferredBackBufferWidth = 960;
+                graphics.PreferredBackBufferHeight = 540;
+                graphics.ApplyChanges();
             }
             activeScreen.Show();
             double t = gameTime.TotalGameTime.TotalMilliseconds;

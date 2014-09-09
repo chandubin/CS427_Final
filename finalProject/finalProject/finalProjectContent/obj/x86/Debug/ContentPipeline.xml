@@ -433,6 +433,33 @@
       <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\optionBar.xnb</Output>
       <Time>2014-09-09T13:02:59.2523704+07:00</Time>
     </Item>
+    <Item>
+      <Source>Map\GrassLand\grasslands.png</Source>
+      <Name>Map\GrassLand\grasslands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands.xnb</Output>
+      <Time>2014-09-09T13:44:27.3461827+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\GrassLand\grasslands_grid.png</Source>
+      <Name>Map\GrassLand\grasslands_grid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands_grid.xnb</Output>
+      <Time>2014-09-09T13:44:27.3521831+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\part1_tileset.png</Source>
+      <Name>Map\part1_tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\part1_tileset.xnb</Output>
+      <Time>2014-09-10T01:53:07.1268403+07:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

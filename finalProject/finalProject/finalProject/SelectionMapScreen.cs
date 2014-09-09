@@ -106,6 +106,14 @@ namespace ScreenManager
                         reset();
                     }
                 }
+                if (idx == 0 && entities[idx] is MenuDialog)
+                {
+                    if (((MenuDialog)entities[idx]).IsSelected(pos.X, pos.Y) == 0)
+                    {
+                        Global.currentScreen = "ingameScreen";
+                        reset();
+                    }
+                }
 
 
             }

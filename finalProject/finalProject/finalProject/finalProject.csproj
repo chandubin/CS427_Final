@@ -120,6 +120,8 @@
     <Compile Include="IngameScreen.cs" />
     <Compile Include="InvisibleGameEntity.cs" />
     <Compile Include="LightUnit.cs" />
+    <Compile Include="Map.cs" />
+    <Compile Include="MapCell.cs" />
     <Compile Include="MenuComponent.cs" />
     <Compile Include="MenuDialog.cs" />
     <Compile Include="MenuDialogItem.cs" />
@@ -132,6 +134,8 @@
     <Compile Include="Sprite2D.cs" />
     <Compile Include="Spritesheet.cs" />
     <Compile Include="StartScreen.cs" />
+    <Compile Include="Tile.cs" />
+    <Compile Include="TileMap.cs" />
     <Compile Include="VisibleGameEntity.cs" />
     <Compile Include="WelcomeScreen.cs" />
   </ItemGroup>
