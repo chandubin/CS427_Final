@@ -44,5 +44,5 @@ Content\Enemy\Plane01.xnb
 Content\Enemy\LightUnit01.xnb
 Content\Enemy\HeavyUnit01.xnb
 Content\Enemy\HeavyUnit02.xnb
-Content\UserInterface\menufont.xnb
 Content\UserInterface\Button\optionBar.xnb
+Content\UserInterface\menufont.xnb

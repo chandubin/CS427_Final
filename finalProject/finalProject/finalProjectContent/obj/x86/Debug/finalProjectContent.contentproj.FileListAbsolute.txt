@@ -1,2 +1,3 @@
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProjectContent\obj\x86\Debug\finalProjectContent.contentprojResolveAssemblyReference.cache
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProjectContent\obj\x86\Debug\finalProjectContent.contentprojResolveAssemblyReference.cache
+D:\GitHub\CS427_Final\finalProject\finalProject\finalProjectContent\obj\x86\Debug\finalProjectContent.contentprojResolveAssemblyReference.cache

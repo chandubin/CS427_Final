@@ -5,8 +5,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using finalProject;
 
-namespace finalProject
+namespace ScreenManager
 {
     public class IngameScreen : GameScreen
     {

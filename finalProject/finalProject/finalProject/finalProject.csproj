@@ -117,6 +117,7 @@
     <Compile Include="Global.cs" />
     <Compile Include="HeavyUnit.cs" />
     <Compile Include="HelpScreen.cs" />
+    <Compile Include="IngameScreen.cs" />
     <Compile Include="InvisibleGameEntity.cs" />
     <Compile Include="LightUnit.cs" />
     <Compile Include="MenuComponent.cs" />

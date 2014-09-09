@@ -1,199 +1,178 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="ScreenManager.ActionScreen" Collapsed="true">
-    <Position X="0.75" Y="8" Width="1.5" />
+    <Position X="0.75" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEAIAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ActionScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="ScreenManager.HelpScreen" Collapsed="true">
-    <Position X="3" Y="8" Width="1.5" />
+    <Position X="3" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEAIEAAAAAgAAQAAAAAgAEAAAAQAAAAAEAAAAAAQ=</HashCode>
       <FileName>HelpScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="ScreenManager.SelectionMapScreen" Collapsed="true">
-    <Position X="5.25" Y="8" Width="1.5" />
+    <Position X="5.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEAAEAAAAAgAAQCAAAAAAEAAAAQAAAAAEAAAAAAQ=</HashCode>
       <FileName>SelectionMapScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Animation2D" Collapsed="true">
-    <Position X="2.75" Y="10.75" Width="1.5" />
+    <Position X="2.75" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AARBACCABQAAEggCAAYAAEIEAAAKBQAkCEYCROAEABA=</HashCode>
       <FileName>Animation2D.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Camera2D" Collapsed="true">
-    <Position X="3.5" Y="3.25" Width="1.5" />
+    <Position X="3.25" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQEQAAgALADACAAECIGCAASAAAFAQAAAAAGAEAQAAA=</HashCode>
       <FileName>Camera2D.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Enemy" Collapsed="true">
-    <Position X="8" Y="3.25" Width="1.5" />
+    <Position X="7.75" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Enemy.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Game1" Collapsed="true">
-    <Position X="19.5" Y="0.5" Width="1.5" />
+    <Position X="17" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQCFGIBAAAAAwAAAAAAAAAAgIAAAAgABAAAAAAAAAQ=</HashCode>
+      <HashCode>AAQCHGIBAAAAAwAAAAAAAAAAgIAAAAgABAAAAAAAAAQ=</HashCode>
       <FileName>Game1.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.GameEntity" Collapsed="true">
-    <Position X="9" Y="0.5" Width="1.5" />
+    <Position X="7.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.GameModel" Collapsed="true">
-    <Position X="1.75" Y="9.5" Width="1.5" />
+    <Position X="1.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAACAAAAAAEgAAAAYAAAAAAAgAAAAEAAAAQAAEAAA=</HashCode>
       <FileName>GameModel.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.GameScreen" Collapsed="true">
-    <Position X="5.25" Y="6.5" Width="1.5" />
+    <Position X="5.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAEAAAAAAA4AAEACAAAAAAAAEAAAIAAAAAAAAAAQ=</HashCode>
       <FileName>GameScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Global" Collapsed="true">
-    <Position X="21.25" Y="0.5" Width="1.5" />
+    <Position X="18.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAACIAgAQAACAAAABAAAAAAEAAAAAAAAgAAoAAAA=</HashCode>
+      <HashCode>AAAAAACIAgIRAACAAAABAAAAAAEEAAAAAAAgAAoAAAA=</HashCode>
       <FileName>Global.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.HeavyUnit" Collapsed="true">
-    <Position X="5.75" Y="4.75" Width="1.5" />
+    <Position X="5.5" Y="7.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>HeavyUnit.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.InvisibleGameEntity" Collapsed="true">
-    <Position X="2.25" Y="1.75" Width="1.5" />
+    <Position X="2.25" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>InvisibleGameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.LightUnit" Collapsed="true">
-    <Position X="8" Y="4.75" Width="1.5" />
+    <Position X="7.75" Y="7.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>LightUnit.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.MenuComponent" Collapsed="true">
-    <Position X="23" Y="0.5" Width="1.5" />
+    <Position X="20.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEEIAAgAAAwQAQCgQIAgAAAAggAAABIAAAAAAAAA=</HashCode>
       <FileName>MenuComponent.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.MenuDialog" Collapsed="true">
-    <Position X="14.75" Y="3.25" Width="1.5" />
+    <Position X="12.25" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABEgAAAAQAAAAAAAgAAAAAAAAAQAAAAAA=</HashCode>
       <FileName>MenuDialog.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.MenuDialogItem" Collapsed="true">
-    <Position X="17" Y="3.25" Width="1.5" />
+    <Position X="14.5" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MenuDialogItem.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.MouseEventHelper" Collapsed="true">
-    <Position X="1.25" Y="3.25" Width="1.5" />
+    <Position X="1" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAYAAAgAAAAAAAAAggACACABAAAEAAAACAQAAAgAAAA=</HashCode>
       <FileName>MouseEventHelper.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Plane" Collapsed="true">
-    <Position X="10.25" Y="4.75" Width="1.5" />
+    <Position X="10" Y="7.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Plane.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Program" Collapsed="true">
-    <Position X="19.5" Y="1.5" Width="1.5" />
+    <Position X="17" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Sprite2D" Collapsed="true">
-    <Position X="0.5" Y="10.75" Width="1.5" />
+    <Position X="0.5" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AIRBRAgAJQAAEkiEAAMAAEACAIgKAAAACEYAReAAABA=</HashCode>
       <FileName>Sprite2D.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.Spritesheet" Collapsed="true">
-    <Position X="21.25" Y="1.5" Width="1.5" />
+    <Position X="18.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAQAAAgEAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Spritesheet.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.StartScreen" Collapsed="true">
-    <Position X="7.5" Y="8" Width="1.5" />
+    <Position X="7.5" Y="2" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAEAAAAAAAAgAAQAAAAAAAEAAAAQAAAAAEAAAAAAQ=</HashCode>
+      <HashCode>AAQAEAAAAAAAAgAA0AAAAAAAEAAAAQAAAAAEBAAGAAQ=</HashCode>
       <FileName>StartScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.VisibleGameEntity" Collapsed="true">
-    <Position X="11.25" Y="1.75" Width="1.5" />
+    <Position X="10" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAEgAAAAIAAAAAAAQAAAAAAAAAQAAAAAA=</HashCode>
       <FileName>VisibleGameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="finalProject.WelcomeScreen" Collapsed="true">
-    <Position X="9.75" Y="8" Width="1.5" />
+    <Position X="9.75" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>WelcomeScreen.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="finalProject.Map">
-    <Position X="12.5" Y="3.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Map.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="finalProject.Grassland">
-    <Position X="12.5" Y="5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Grassland.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="finalProject.IngameScreen">
-    <Position X="12.25" Y="8" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>IngameScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
