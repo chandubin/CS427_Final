@@ -29,6 +29,9 @@ namespace finalProject
         public static int level = 0;
         public static int mode = 0;
         public static int helpState = 1;
+        public static int sound = 100;
+        public static int music = 100;
+        public static bool grid = false;
         
     }
         

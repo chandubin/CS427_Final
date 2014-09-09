@@ -97,3 +97,8 @@ C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\finalProject.exe
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\finalProject.pdb
 C:\Users\Khánh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\Plane01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\Plane01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\LightUnit01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\HeavyUnit01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Enemy\HeavyUnit02.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\optionBar.xnb
