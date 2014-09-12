@@ -48,5 +48,10 @@ namespace finalProject
         public virtual void setDownAni(List<Spritesheet> RA)
         {
         }
+
+        public virtual void Disable(bool bSelect)
+        {
+            
+        }
     }
 }

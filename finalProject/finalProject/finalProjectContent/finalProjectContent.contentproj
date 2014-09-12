@@ -42,6 +42,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UserInterface\icon\icon_missile_tower01.PNG">
+      <Name>icon_missile_tower01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\icon\icon_missile_tower_disabled01.PNG">
+      <Name>icon_missile_tower_disabled01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
     <Compile Include="UserInterface\title_screen_wide.PNG">
       <Name>title_screen_wide</Name>
       <Importer>TextureImporter</Importer>
@@ -335,6 +345,114 @@
       <Name>part1_tileset</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\hud_play01.PNG">
+      <Name>hud_play01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\hud_play_selected01.PNG">
+      <Name>hud_play_selected01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\hud_fast01.PNG">
+      <Name>hud_fast01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\hud_fast_selected01.PNG">
+      <Name>hud_fast_selected01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\Button\hud_config01.PNG">
+      <Name>hud_config01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\Button\hud_config_selected01.PNG">
+      <Name>hud_config_selected01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\icon\icon_gatling_tower01.PNG">
+      <Name>icon_gatling_tower01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\icon\icon_gatling_tower_disabled01.PNG">
+      <Name>icon_gatling_tower_disabled01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\icon\icon_goo_tower01.PNG">
+      <Name>icon_goo_tower01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\icon\icon_goo_tower_disabled01.PNG">
+      <Name>icon_goo_tower_disabled01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\icon\icon_lightning_tower01.PNG">
+      <Name>icon_lightning_tower01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\icon\icon_lightning_tower_disabled01.PNG">
+      <Name>icon_lightning_tower_disabled01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\icon\hud_health01.PNG">
+      <Name>hud_health01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\icon\hud_health_selected01.PNG">
+      <Name>hud_health_selected01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\icon\hud_money01.PNG">
+      <Name>hud_money01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UserInterface\icon\hud_money_selected01.PNG">
+      <Name>hud_money_selected01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\menufont2.spritefont">
+      <Name>menufont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UserInterface\menufont3.spritefont">
+      <Name>menufont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
