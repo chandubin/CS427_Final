@@ -49,25 +49,33 @@ Content\UserInterface\menufont.xnb
 Content\Map\GrassLand\grasslands.xnb
 Content\Map\GrassLand\grasslands_grid.xnb
 Content\Map\part1_tileset.xnb
-<<<<<<< HEAD
 Content\Tower\Gatling\Gatling01.xnb
 Content\Tower\Gatling\Gatling02.xnb
 Content\Tower\Gatling\Gatling03.xnb
 Content\Tower\Gatling\Gatling04.xnb
 Content\Tower\Gatling\Gatling05.xnb
-=======
+Content\UserInterface\icon\icon_missile_tower01.xnb
+Content\UserInterface\icon\icon_missile_tower_disabled01.xnb
 Content\UserInterface\Button\hud_play01.xnb
-Content\UserInterface\Button\hud_fast01.xnb
-Content\UserInterface\Button\hud_config01.xnb
 Content\UserInterface\Button\hud_play_selected01.xnb
+Content\UserInterface\Button\hud_fast01.xnb
 Content\UserInterface\Button\hud_fast_selected01.xnb
+Content\UserInterface\Button\hud_config01.xnb
 Content\UserInterface\Button\hud_config_selected01.xnb
+Content\Tower\Flame\Flame01.xnb
+Content\Tower\Flame\Flame02.xnb
+Content\Tower\Flame\Flame03.xnb
+Content\Tower\Flame\Flame04.xnb
 Content\UserInterface\icon\icon_gatling_tower01.xnb
 Content\UserInterface\icon\icon_gatling_tower_disabled01.xnb
 Content\UserInterface\icon\icon_goo_tower01.xnb
 Content\UserInterface\icon\icon_goo_tower_disabled01.xnb
-Content\UserInterface\icon\icon_missile_tower01.xnb
-Content\UserInterface\icon\icon_missile_tower_disabled01.xnb
+Content\Tower\Goo\Goo01.xnb
+Content\Tower\Goo\Goo02.xnb
+Content\Tower\Goo\Goo03.xnb
+Content\Tower\Missile\Missile01.xnb
+Content\Tower\Missile\Missile02.xnb
+Content\Tower\Lightning\Lightning01.xnb
 Content\UserInterface\icon\icon_lightning_tower01.xnb
 Content\UserInterface\icon\icon_lightning_tower_disabled01.xnb
 Content\UserInterface\icon\hud_health01.xnb
@@ -76,4 +84,3 @@ Content\UserInterface\icon\hud_money01.xnb
 Content\UserInterface\icon\hud_money_selected01.xnb
 Content\UserInterface\menufont2.xnb
 Content\UserInterface\menufont3.xnb
->>>>>>> origin/master

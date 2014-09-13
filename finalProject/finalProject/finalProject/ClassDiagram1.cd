@@ -17,7 +17,7 @@
   <Class Name="ScreenManager.IngameScreen" Collapsed="true">
     <Position X="10" Y="2" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQIEAIAAAAAAgAAAAAAAACAEAAAAQAAAAAEAAAAAAQ=</HashCode>
+      <HashCode>AAYKEAYAAAAAAgAAQIgIAACAkACACQQAAwAEAAAAEAQ=</HashCode>
       <FileName>IngameScreen.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -66,7 +66,7 @@
   <Class Name="finalProject.GameModel" Collapsed="true">
     <Position X="1.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AQQAACAAAAAAEgAAAAYAAAgAAAgAAAAGAAAAQAAFAMA=</HashCode>
+      <HashCode>AQQAACAAAAAAEgAAAAYAAAgAAAgAAAAGAAAgQAAFAMA=</HashCode>
       <FileName>GameModel.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -164,7 +164,7 @@
   <Class Name="finalProject.Sprite2D" Collapsed="true">
     <Position X="2.75" Y="8.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AIRBRAgAJQAAEkiEAAMAAEACAIgKAAAACEYAReAAABA=</HashCode>
+      <HashCode>AIRBRAgAJQAAEkiEAAMAAEACAIgKAAAACEYgReAAABA=</HashCode>
       <FileName>Sprite2D.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -206,7 +206,7 @@
   <Class Name="finalProject.VisibleGameEntity" Collapsed="true">
     <Position X="11.25" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAAAAAAAAAEgAAAAIAAAAAAAQAAAAAAAAAQAAAAAA=</HashCode>
+      <HashCode>AAQAAAAAAAAAEgAAAAIAAAAAAAQAAAAAAAAgQAAAAAA=</HashCode>
       <FileName>VisibleGameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -271,15 +271,8 @@
   </Class>
   <Class Name="finalProject.Missile">
     <Position X="15" Y="12.5" Width="1.5" />
-    <NestedTypes>
-      <Class Name="finalProject.Missile.Missile" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>Missile.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Class>
-    </NestedTypes>
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Missile.cs</FileName>
     </TypeIdentifier>
   </Class>

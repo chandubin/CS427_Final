@@ -348,7 +348,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="Tower\Gatling\Gatling01.PNG">
       <Name>Gatling01</Name>
       <Importer>TextureImporter</Importer>
@@ -371,7 +370,9 @@
     </Compile>
     <Compile Include="Tower\Gatling\Gatling05.PNG">
       <Name>Gatling05</Name>
-=======
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
     <Compile Include="UserInterface\Button\hud_play01.PNG">
       <Name>hud_play01</Name>
       <Importer>TextureImporter</Importer>
@@ -403,13 +404,11 @@
     </Compile>
     <Compile Include="UserInterface\Button\hud_config_selected01.PNG">
       <Name>hud_config_selected01</Name>
->>>>>>> origin/master
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="Tower\Flame\Flame01.PNG">
       <Name>Flame01</Name>
       <Importer>TextureImporter</Importer>
@@ -427,7 +426,11 @@
     </Compile>
     <Compile Include="Tower\Flame\Flame04.PNG">
       <Name>Flame04</Name>
-=======
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="UserInterface\icon\icon_gatling_tower01.PNG">
       <Name>icon_gatling_tower01</Name>
       <Importer>TextureImporter</Importer>
@@ -447,13 +450,11 @@
     </Compile>
     <Compile Include="UserInterface\icon\icon_goo_tower_disabled01.PNG">
       <Name>icon_goo_tower_disabled01</Name>
->>>>>>> origin/master
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="Tower\Goo\Goo01.PNG">
       <Name>Goo01</Name>
       <Importer>TextureImporter</Importer>
@@ -485,7 +486,11 @@
   <ItemGroup>
     <Compile Include="Tower\Lightning\Lightning01.PNG">
       <Name>Lightning01</Name>
-=======
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="UserInterface\icon\icon_lightning_tower01.PNG">
       <Name>icon_lightning_tower01</Name>
       <Importer>TextureImporter</Importer>
@@ -515,13 +520,10 @@
     </Compile>
     <Compile Include="UserInterface\icon\hud_money_selected01.PNG">
       <Name>hud_money_selected01</Name>
->>>>>>> origin/master
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
-<<<<<<< HEAD
-=======
   <ItemGroup>
     <Compile Include="UserInterface\menufont2.spritefont">
       <Name>menufont2</Name>
@@ -536,7 +538,6 @@
       <Processor>FontDescriptionProcessor</Processor>
     </Compile>
   </ItemGroup>
->>>>>>> origin/master
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
   <!--  To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
