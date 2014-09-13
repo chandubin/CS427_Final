@@ -278,6 +278,21 @@ namespace finalProject
                 reLoadResource();
             }
         }
+        public override void Disable(bool bSelect)
+        {
+            if (bSelect)
+            {
+                _State = SPRITE_STATE.DISABLED;
+                _Delay = 1;
+                reLoadResource();
+            }
+            else
+            {
+                _State = SPRITE_STATE.NORMAL;
+                _Delay = 50;
+                reLoadResource();
+            }
+        }
         
         public override void Over(bool bOver)
         {

@@ -49,6 +49,7 @@ namespace finalProject
         {
         }
 
+<<<<<<< HEAD
         public virtual void setIdleLevel1(List<Spritesheet> RA)
         {
         }
@@ -71,6 +72,11 @@ namespace finalProject
 
         public virtual void setShootingLevel3(List<Spritesheet> RA)
         {
+=======
+        public virtual void Disable(bool bSelect)
+        {
+            
+>>>>>>> origin/master
         }
     }
 }

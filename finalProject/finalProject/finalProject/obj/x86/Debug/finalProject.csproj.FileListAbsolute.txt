@@ -159,6 +159,29 @@ D:\GitHub\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\final
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands.xnb
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands_grid.xnb
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\part1_tileset.xnb
+<<<<<<< HEAD
 D:\GitHub\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands.xnb
 D:\GitHub\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands_grid.xnb
 D:\GitHub\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\part1_tileset.xnb
+=======
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\hud_play01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\hud_fast01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\hud_config01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\hud_play_selected01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\hud_fast_selected01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\Button\hud_config_selected01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\icon_gatling_tower01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\icon_gatling_tower_disabled01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\icon_goo_tower01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\icon_goo_tower_disabled01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\icon_missile_tower01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\icon_missile_tower_disabled01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\icon_lightning_tower01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\icon_lightning_tower_disabled01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\hud_health01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\hud_health_selected01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\hud_money01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\icon\hud_money_selected01.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\menufont2.xnb
+C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\UserInterface\menufont3.xnb
+>>>>>>> origin/master

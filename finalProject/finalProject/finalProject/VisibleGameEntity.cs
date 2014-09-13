@@ -40,6 +40,14 @@ namespace finalProject
                
             }
         }
+        public virtual void Disable(bool bSelect)
+        {
+            if (_MainModel != null)
+            {
+                _MainModel.Disable(bSelect);
+
+            }
+        }
 
         public virtual void Over(bool bOver)
         {
