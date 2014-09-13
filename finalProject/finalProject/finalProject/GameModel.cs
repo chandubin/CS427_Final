@@ -48,5 +48,29 @@ namespace finalProject
         public virtual void setDownAni(List<Spritesheet> RA)
         {
         }
+
+        public virtual void setIdleLevel1(List<Spritesheet> RA)
+        {
+        }
+
+        public virtual void setIdleLevel2(List<Spritesheet> RA)
+        {
+        }
+
+        public virtual void setIdleLevel3(List<Spritesheet> RA)
+        {
+        }
+
+        public virtual void setShootingLevel1(List<Spritesheet> RA)
+        {
+        }
+
+        public virtual void setShootingLevel2(List<Spritesheet> RA)
+        {
+        }
+
+        public virtual void setShootingLevel3(List<Spritesheet> RA)
+        {
+        }
     }
 }

@@ -111,21 +111,27 @@
     <Compile Include="Animation2D.cs" />
     <Compile Include="Camera2D.cs" />
     <Compile Include="Enemy.cs" />
+    <Compile Include="Flame.cs" />
     <Compile Include="GameEntity.cs" />
     <Compile Include="GameModel.cs" />
     <Compile Include="GameScreen.cs" />
+    <Compile Include="Gatling.cs" />
     <Compile Include="Global.cs" />
+    <Compile Include="Goo.cs" />
     <Compile Include="HeavyUnit.cs" />
     <Compile Include="HelpScreen.cs" />
     <Compile Include="IngameScreen.cs" />
     <Compile Include="InvisibleGameEntity.cs" />
+    <Compile Include="Lightning.cs" />
     <Compile Include="LightUnit.cs" />
     <Compile Include="Map.cs" />
     <Compile Include="MapCell.cs" />
     <Compile Include="MenuComponent.cs" />
     <Compile Include="MenuDialog.cs" />
     <Compile Include="MenuDialogItem.cs" />
+    <Compile Include="Missile.cs" />
     <Compile Include="MouseEventHelper.cs" />
+    <Compile Include="Path.cs" />
     <Compile Include="Plane.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
@@ -136,6 +142,8 @@
     <Compile Include="StartScreen.cs" />
     <Compile Include="Tile.cs" />
     <Compile Include="TileMap.cs" />
+    <Compile Include="Tower.cs" />
+    <Compile Include="TowerAni.cs" />
     <Compile Include="VisibleGameEntity.cs" />
     <Compile Include="WelcomeScreen.cs" />
   </ItemGroup>

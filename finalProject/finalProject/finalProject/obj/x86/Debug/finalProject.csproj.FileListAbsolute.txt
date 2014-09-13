@@ -159,3 +159,6 @@ D:\GitHub\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\final
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands.xnb
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands_grid.xnb
 C:\Users\TranBinh\Desktop\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\part1_tileset.xnb
+D:\GitHub\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands.xnb
+D:\GitHub\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\GrassLand\grasslands_grid.xnb
+D:\GitHub\CS427_Final\finalProject\finalProject\finalProject\bin\x86\Debug\Content\Map\part1_tileset.xnb
