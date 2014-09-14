@@ -64,6 +64,13 @@ namespace ScreenManager
             nEntities += 4;
             font = Global.Content.Load<SpriteFont>(@"UserInterface\menufont2");
             font2 = Global.Content.Load<SpriteFont>(@"UserInterface\menufont3");
+
+            HeavyUnit hu = new HeavyUnit(1, -100, 320, 0, 0);
+            entities.Add(hu);
+            nEntities++;
+            LightUnit lu = new LightUnit(1, -20, 320, 0, 0);
+            entities.Add(lu);
+            nEntities++;
             base.LoadContent();
         }
 
@@ -115,9 +122,14 @@ namespace ScreenManager
         
                         }
                     }
-                    
+                
                 
 
+            }
+            for (int i = 0; i < nEntities; ++i)
+            {
+                if (entities[i] is Enemy)
+                    entities[i].Update(gameTime);
             }
             Global.UpdateAllInvisibleEntities(gameTime);
 			if (keyboardState.IsKeyDown(Keys.Escape))

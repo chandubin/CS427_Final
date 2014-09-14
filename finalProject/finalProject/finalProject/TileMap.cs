@@ -30,13 +30,13 @@ namespace finalProject
 
             // Create Sample Map Data
 
-for (int i = 3; i < 13; i++)
-{
-    for (int j = 2; j < 21; j++)
-    {
-        Rows[i].Columns[j].TileID = 1;
-    }
-}
+//for (int i = 3; i < 13; i++)
+//{
+//    for (int j = 2; j < 21; j++)
+//    {
+//        Rows[i].Columns[j].TileID = 1;
+//    }
+//}
 
             // End Create Sample Map Data
         }
